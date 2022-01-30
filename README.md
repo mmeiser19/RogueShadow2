@@ -1,2 +1,5 @@
 # RogueShadow2
-Continuation of Dungeon Crawler CPSC 240
+
+Dungeon crawler-styled game designed in CPSC 220
+
+Run with ansi_terminal.jar as a parameter
